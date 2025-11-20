@@ -19,7 +19,6 @@ The system asks the user a series of questions about the laptop's behavior and s
 - `conman.pl`  
   Knowledge base and rules for diagnosing laptop problems (facts, rules, and inference logic).
 
-> Note: File roles are based on typical Prolog expert-system organization (controller + knowledge base). Adjust descriptions if you later refactor the code.
 
 ## Learning Objectives (AI Course)
 
@@ -37,8 +36,6 @@ This project illustrates several core **Artificial Intelligence** concepts:
 - **Human–Computer Interaction in AI Systems**  
   Designing question–answer interactions to gather evidence for the reasoning process.
 
-You can reference this project in your AI coursework or portfolio as:  
-"Laptop Troubleshooting Expert System in Prolog – Artificial Intelligence Course Project".
 
 ## Requirements
 
@@ -96,12 +93,6 @@ This project is suitable as a **course project for an Artificial Intelligence mo
 - Leverages **logical inference** rather than procedural code to reach conclusions.
 - Shows how AI techniques can be applied to a practical, familiar domain (laptop troubleshooting).
 
-You can extend the project to meet course requirements by:
-
-- Adding more detailed rules and sub-diagnoses.
-- Incorporating certainty factors or simple probabilistic reasoning.
-- Improving the user interaction (menus, explanations, and justifications for conclusions).
-- Logging sessions for later analysis.
 
 ## Possible Extensions
 
@@ -109,7 +100,3 @@ You can extend the project to meet course requirements by:
 - **Web-Based Interface** exposing the Prolog engine via an API.
 - **Expanded Knowledge Base** for more brands, error codes, and hardware components.
 
-## Acknowledgements
-
-This project was prepared as part of an **Artificial Intelligence course project**.  
-Instructor and institution details can be added here if required.
